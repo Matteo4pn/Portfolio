@@ -28,3 +28,5 @@ def test_withdraw():
     assert jar.size == 1
     jar.withdraw(1)
     assert jar.size == 0
+
+# Tests jar.py
