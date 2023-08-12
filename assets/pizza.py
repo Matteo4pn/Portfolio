@@ -25,3 +25,6 @@ if __name__ == "__main__":
     file_path = sys.argv[1]
     pizza_data = read_csv_file(file_path)
     print_pizza_table(pizza_data)
+
+# Prints prices table from:
+# Python pizza.py regular.csv
