@@ -27,3 +27,5 @@ class Jar:
     @property
     def size(self):
         return self._size
+
+    # Counts cookies in the jar, you can set the capacity, add and remove
