@@ -15,3 +15,5 @@ class Shirtificate(FPDF):
 
 shirtificate = Shirtificate(input("Name: "))
 shirtificate.output("shirtificate.pdf")
+
+# Creates PDF file with new img and text on it
