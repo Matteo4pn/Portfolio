@@ -22,3 +22,5 @@ elif contains_invalid_characters(surname):
     print("Surname contains invalid characters!")
 else:
     print(name, surname)
+
+# Checks if given name and surname has valid characters and prints it
