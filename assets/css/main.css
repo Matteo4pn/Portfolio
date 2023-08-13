@@ -1938,7 +1938,7 @@ button.alt:hover,
 #header header h1 {
   font-size: 2.25em;
   line-height: 1em;
-  margin-bottom: 0;
+  margin-bottom: -0.8em;
 }
 
 #header header p {
