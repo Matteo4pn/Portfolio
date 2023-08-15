@@ -2,7 +2,7 @@
 
 Welcome to my portfolio website! This project showcases my skills and the lessons I've learned in web development using HTML, CSS, and JavaScript. It also highlights my experience in working with repositories and implementing HTTPS security.
 
-## Lessons Learned
+## Key Takeaways
 
 ### HTML
 - I learned how to structure the content of my webpage using HTML tags, headings, paragraphs, and lists.
@@ -28,7 +28,7 @@ Welcome to my portfolio website! This project showcases my skills and the lesson
 
 ## Deployment
 
-- I deployed my website live, making it accessible to users via google domains.
+- I deployed my website live, making it accessible to users worldwide.
 - Understanding web hosting, domain management, and server configurations was crucial for successful deployment.
 
 ## Conclusion
